@@ -1,0 +1,30 @@
+{
+    "cliente_pf": {
+        "doc": "13831583714",
+        "nome": "HILDA DE QUEIROZ",
+        "dataNascimento": "02/08/1984"
+    },
+    "cliente_pf2": {
+        "doc": "13423005726",
+        "nome": "VINICIUS MIRANDA VARGAS",
+        "dataNascimento": "29/07/1991"
+    },
+    "cliente_vip": {
+        "doc": "13419798652",
+        "nome": "EVANGELINA ANGELA DE NASCIMENTO",
+        "dataNascimento": "11/08/1998"
+    },
+    "cliente_funcionario": {
+        "doc": "22135787884",
+        "nome": "CRISTIANE SOBRINHO CUNHA DA SILVA",
+        "dataNascimento": "20/07/1981"
+    },
+    "cliente_funcionario2": {
+        "doc": "31909631850",
+        "nome": " ",
+        "dataNascimento": " "
+    },
+    "cliente_nao_identificado": {
+        "nome": "JOAO APPIUM"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "gerente_cb": {
+        "filial": 1000,
+        "empresa": 21,
+        "matricula": 871893,
+        "senha": "homolog01"
+    },
+    "gerente_cb2": {
+        "filial": 1000,
+        "empresa": 21,
+        "matricula": 361798,
+        "senha": "homolog01"
+    },
+    "gerente_aprova_desconto": {
+        "filial": 1000,
+        "empresa": 21,
+        "matricula": 871893,
+        "senha": "homolog01"
+    },
+    "vendedor_cb": {
+        "nome": "Luiz Carlos Gomes De Carvalho",
+        "filial": 1000,
+        "empresa": 21,
+        "matricula": 111910,
+        "senha": "homolog01"
+    },
+    "vendedor_cb2": {
+        "nome": "Valdeene Antonio De Lemos",
+        "filial": 1000,
+        "empresa": 21,
+        "matricula": 446440,
+        "senha": "homolog01"
+    }
+}

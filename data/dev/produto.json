@@ -1,0 +1,68 @@
+{
+    "bicicleta": {
+        "sku": 4102541,
+        "tipo": "padrao",
+        "desc": "Bicicleta Infantil Aro 16 Tina Houston - Preta",
+        "valor": "649,00"
+    },
+    "smart_tv": {
+        "sku": 4679172,
+        "tipo": "padrao",
+        "desc": "Smart TV LED 32\" HD Samsung T4300 com HDR, Sistema Operacional",
+        "valor": " 1.499,00"
+    },
+    "panela_pressao": {
+        "sku": 750212,
+        "tipo": "padrao",
+        "desc": "Panela de Pressão 7 L Clock Original Fechamento Interno em Alumínio Polida com Sistema de Segurança Avançado",
+        "valor": "179,90"
+    },
+    "lavadora": {
+        "sku": 5060427,
+        "tipo": "padrao",
+        "desc": "Lavadora de Roupas Semiautomática Colormaq 20kg LCS 20 com 6",
+        "valor": "949,00"
+    },
+    "geladeira": {
+        "sku": 4048466,
+        "tipo": "padrao",
+        "desc": "Geladeira Electrolux DFX41 Frost Free com Turbo Congelamento",
+        "valor": "3.699,00"
+    },
+    "fogao": {
+        "sku": 4607368,
+        "tipo": "padrao",
+        "desc": "Fogão Electrolux 5 Bocas 76LBU com Queimadores Robustos – Branco",
+        "valor": "1.899,00"
+    },
+    "fogao2": {
+        "sku": 908657,
+        "tipo": "padrao",
+        "desc": "Fogão Electrolux 5 Bocas 76LBU com Queimadores Robustos – Branco",
+        "valor": "1.899,00"
+    },
+    "notebook": {
+        "sku": 4654862,
+        "tipo": "padrao",
+        "desc": "Notebook Lenovo AMD Ryzen 5-3500U 8GB 1TB Tela 15.6” Windows 10",
+        "valor": "3.799,00"
+    },
+    "smartphone": {
+        "sku": 4788621,
+        "tipo": "padrao",
+        "desc": "Smartphone Motorola Moto E7 Cinza Metálico 32GB, 2GB RAM, Tela",
+        "valor": "999,00"
+    },
+    "ar_condicionado": {
+        "sku": 1168812,
+        "tipo": "padrao",
+        "desc": "Ar-Condicionado Split Samsung Inverter Quente/Frio 12.000 BTUs",
+        "valor": "999,00"
+    },
+    "cama_box": {
+        "sku": 679851,
+        "tipo": "padrao",
+        "desc": "Cama Box Casal Umaflex Itália com Pillow Top e Molas Ensacadas",
+        "valor": "1.999,00"
+    }
+}

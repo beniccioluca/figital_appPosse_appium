@@ -1,0 +1,60 @@
+{
+	"name": "figital-template-appium",
+	"version": "0.0.1",
+	"description": "Remontando pela enésima vez esse template de Appium",
+	"main": "...",
+	"engines": {
+		"node": ">=16.0.0"
+	},
+	"publishConfig": {
+		"registry": "http://nexus.viavarejo.com.br/repository/npm-private"
+	},
+	"repository": {
+		"type": "git",
+		"url": "ssh://git@github.com:viavarejo-internal/figital-template-appium.git"
+	},
+	"scripts": {
+		"allure:reporter": "allure generate --clean allure-results && allure open",
+		"android:native:apk": "npx wdio config/native/wdio.local.android.native.apk.conf.ts",
+		"android:native:pre-installed": "npx wdio config/native/wdio.local.android.native.installed.app.conf.ts",
+		"android:native:pre-installed-posse": "npx wdio config/native/wdio.local.android.native.installed.app.posse.conf.ts",
+		"android:native:browserstack": "npx wdio config/native/wdio.bs.android.native.conf.ts",
+		"android:web": "npx wdio config/browser/wdio.local.android.web.conf.ts",
+		"android:web:browserstack": "npx wdio config/browser/wdio.bs.android.web.conf.ts",
+		"ios:native:ipa": "npx wdio config/native/wdio.local.ios.native.ipa.conf.ts",
+		"ios:native:pre-installed": "npx wdio config/native/wdio.local.ios.native.installed.app.conf.ts.ts",
+		"ios:native:browserstack": "npx wdio config/native/wdio.bs.ios.native.conf.ts",
+		"ios:web": "npx wdio config/browser/wdio.local.ios.web.conf.ts",
+		"ios:web:browserstack": "npx wdio config/browser/wdio.bs.ios.web.conf"
+	},
+	"keywords": [
+		"webdriverio",
+		"appium",
+		"mobile",
+		"tests",
+		"mocha",
+		"github-actions"
+	],
+	"license": "MIT",
+	"devDependencies": {
+		"@types/jest": "^29.5.2",
+		"@types/mocha": "^10.0.1",
+		"@wdio/allure-reporter": "7.20.3",
+		"@wdio/appium-service": "7.20.3",
+		"@wdio/browserstack-service": "7.20.5",
+		"@wdio/cli": "7.20.5",
+		"@wdio/local-runner": "7.20.5",
+		"@wdio/mocha-framework": "^7.30.2",
+		"@wdio/spec-reporter": "7.20.3",
+		"@wdio/types": "7.20.3",
+		"allure-commandline": "2.17.2",
+		"appium": "^1.22.3",
+		"chromedriver": "^102.0.0",
+		"dotenv": "16.0.0",
+		"find-process": "1.4.7",
+		"ts-node": "10.8.1",
+		"typescript": "4.7.3",
+		"wdio-chromedriver-service": "7.3.2",
+		"wdio-rerun-service": "1.7.3"
+	}
+}

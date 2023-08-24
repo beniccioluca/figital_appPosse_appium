@@ -1,0 +1,14 @@
+{
+    "vendedor_cb": {
+        "filial": 1000,
+        "empresa": 21,
+        "matricula": 118508,
+        "senha": "homolog01"
+    },
+    "vendedor_cb2": {
+        "filial": 1000,
+        "empresa": 21,
+        "matricula": 446440,
+        "senha": "homolog01"
+    }
+}
